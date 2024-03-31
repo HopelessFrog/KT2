@@ -1,0 +1,28 @@
+
+Model: 123
+Weight: 123.000000 tons 
+Engine Power: 123.000000 HP 
+Speed: 123.000000 km/h 
+Capacity 123.000000 liters 
+Type: Truck
+
+Model: 55
+Weight: 555.000000 tons 
+Engine Power: 55.000000 HP 
+Speed: 55.000000 km/h 
+Capacity 55.000000 liters 
+Type: Truck
+
+Model: 123
+Weight: 123.000000 tons 
+Engine Power: 123.000000 HP 
+Speed: 123.000000 km/h 
+Acceleration to 100 km 123.000000 sec 
+Type: Sports Car
+
+Model: yyy
+Weight: 34.000000 tons 
+Engine Power: 34.000000 HP 
+Speed: 656.000000 km/h 
+Acceleration to 100 km 344.000000 sec 
+Type: Sports Car
